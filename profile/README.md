@@ -1,6 +1,4 @@
-# The Institute of Earth Sciences
-
-## SUPSI
+# Institute of Earth Sciences - SUPSI
 
 The Institute of Earth Sciences (IST) is active in disciplines aimed to protect the environment and resources of the territory.
 It is composed of specialists in the management of surface- and groundwater, in modeling related to natural hazards,
